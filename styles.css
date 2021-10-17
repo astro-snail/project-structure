@@ -932,6 +932,7 @@ button.is-loading > span {
   border-radius: 4px;
   margin: 16px 0;
   position: relative;
+  touch-action: none;
 }
 
 .sortable-list__item[data-grab-handle],
