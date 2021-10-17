@@ -916,6 +916,7 @@ button.is-loading > span {
   position: relative;
   padding: 0;
   margin: 12px 0;
+  touch-action: none;
 }
 
 .sortable-list__item {
